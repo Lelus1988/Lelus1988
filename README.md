@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/815555114718855178?theme=dark&idleMessage=I'm%20not%20currently%20doing%20anything!&borderRadius=10px)](https://discord.com/users/815555114718855178)
+![Discord Presence](https://lanyard.cnrad.dev/api/815555114718855178?theme=dark&idleMessage=I'm%20not%20currently%20doing%20anything!&borderRadius=10px)
 
 <!-- ────────── Skills Tabelle ────────── -->
 <div align="center">
