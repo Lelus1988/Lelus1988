@@ -1,8 +1,3 @@
-<!-- ────────── Discord Presence ────────── -->
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/815555114718855178?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Presence">
-</p>
-
 <!-- ────────── Skills Tabelle ────────── -->
 <div align="center">
 
