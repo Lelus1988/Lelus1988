@@ -5,5 +5,9 @@
 
 Here are some ideas to get you started:
 
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lelus1988&layout=compact&theme=dark)
+
+
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lelus1988&show_icons=true&theme=dark)
