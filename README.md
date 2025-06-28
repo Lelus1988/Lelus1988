@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/815555114718855178)](https://discord.com/users/815555114718855178)
+<a href="https://discord.com/users/815555114718855178"><img src="https://lanyard.cnrad.dev/api/815555114718855178?theme=dark" /></a>
 
 
 <table>
