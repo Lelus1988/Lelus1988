@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/815555114718855178)](https://discord.com/users/815555114718855178)
+
 
 <table>
   <tr>
