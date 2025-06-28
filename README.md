@@ -1,4 +1,6 @@
-<img src="https://lanyard.cnrad.dev/api/815555114718855178?theme=dark&hideDiscrim=true&borderRadius=10px" alt="Discord Presence" />
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/815555114718855178?theme=dark&hideDiscrim=true&borderRadius=10px" alt="Discord Presence">
+</p>
 
 <table>
   <tr>
