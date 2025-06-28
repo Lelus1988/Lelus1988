@@ -1,4 +1,8 @@
-<a href="https://discord.com/users/815555114718855178"><img src="https://lanyard.cnrad.dev/api/815555114718855178?theme=dark" /></a>
+<p align="center">
+  <a href="https://discord.com/users/815555114718855178">
+    <img src="https://lanyard.cnrad.dev/api/815555114718855178?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px" />
+  </a>
+</p>
 
 
 <table>
