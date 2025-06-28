@@ -5,10 +5,7 @@
 
 Here are some ideas to get you started:
 
-| Languages | Frontend | Backend & Database | Tools & DevOps | OS |
-| --------- | -------- | ------------------ | -------------- | -- |
-| ![Python](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg) | ![HTML](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg) | ![Discord](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg) | ![Git](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg) | ![Windows](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/windows.svg) |
-| ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg) | ![CSS](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg) | ![MySQL](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg) | ![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg) | ![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linux.svg) |
+
 
 
 <!-- Most Used Languages -->
