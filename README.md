@@ -29,7 +29,7 @@
   <tr>
     <td align="center"><strong>OS</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=windows,linux" width="200" alt="Operating Systems">
+      <img src="https://skillicons.dev/icons?i=windows,linux" width="150" alt="Operating Systems">
     </td>
   </tr>
 </table>
