@@ -11,7 +11,7 @@
   <tr>
     <td align="center"><strong>Frontend</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=html,css,md" width="150" alt="Frontend">
+      <img src="https://skillicons.dev/icons?i=html,css" width="100" alt="Frontend">
     </td>
   </tr>
   <tr>
