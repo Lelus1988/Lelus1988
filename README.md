@@ -17,7 +17,7 @@
   <tr>
     <td align="center"><strong>Backend &amp; Database</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=discord,bots,mysql,mongodb" width="100" alt="Backend &amp; Database">
+      <img src="https://skillicons.dev/icons?i=discord,bots,mysql,mongodb" width="200" alt="Backend &amp; Database">
     </td>
   </tr>
   <tr>
