@@ -5,13 +5,13 @@
   <tr>
     <td align="center"><strong>Languages</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=python,js,c,cqq" width="100" alt="Languages">
+      <img src="https://skillicons.dev/icons?i=python,js,c" width="150" alt="Languages">
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Frontend</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=html,css" width="100" alt="Frontend">
+      <img src="https://skillicons.dev/icons?i=html,css" width="50" alt="Frontend">
     </td>
   </tr>
   <tr>
