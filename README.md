@@ -11,7 +11,7 @@
   <tr>
     <td align="center"><strong>Frontend</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=html,css" width="50" alt="Frontend">
+      <img src="https://skillicons.dev/icons?i=html,css" width="150" alt="Frontend">
     </td>
   </tr>
   <tr>
@@ -29,7 +29,7 @@
   <tr>
     <td align="center"><strong>OS</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=windows,linux" width="50" alt="Operating Systems"
+      <img src="https://skillicons.dev/icons?i=windows,linux" width="150" alt="Operating Systems"
     </td>
   </tr>
 </table>
