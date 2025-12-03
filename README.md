@@ -31,7 +31,6 @@
 </div>
 
 <!-- ────────── GitHub Stats ────────── -->
-<h2 align="center">My Stats</h2>
 
 <p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=Lelus1988&theme=tokyonight&show_icons=true" alt="GitHub Stats">
