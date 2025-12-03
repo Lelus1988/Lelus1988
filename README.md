@@ -9,12 +9,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=html,css" width="75" alt="Frontend">
-    </td>
-  </tr>
-  <tr>
     <td align="center"><strong>Backend &amp; Database</strong></td>
     <td align="left">
       <img src="https://skillicons.dev/icons?i=discord,bots,mysql,mongodb" width="200" alt="Backend &amp; Database">
