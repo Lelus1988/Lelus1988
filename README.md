@@ -1,5 +1,5 @@
 <!-- ────────── Skills Tabelle ────────── -->
-<div align="center">
+<div align="">
 
 <table>
   <tr>
