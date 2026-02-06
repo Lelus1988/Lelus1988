@@ -5,13 +5,13 @@
   <tr>
     <td align="center"><strong>Languages</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=python,js,cpp" width="200" alt="Languages">
+      <img src="https://skillicons.dev/icons?i=python,js,cpp" width="150" alt="Languages">
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Backend &amp; Database</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=discord,bots,mysql" width="200" alt="Backend &amp; Database">
+      <img src="https://skillicons.dev/icons?i=discord,bots,mysql" width="150" alt="Backend &amp; Database">
     </td>
   </tr>
   <tr>
