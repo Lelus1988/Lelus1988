@@ -5,19 +5,19 @@
   <tr>
     <td align="center"><strong>Languages</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=python,js,cpp" width="100" alt="Languages">
+      <img src="https://skillicons.dev/icons?i=python,js,cpp" width="200" alt="Languages">
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Backend &amp; Database</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=discord,bots,mysql" width="100" alt="Backend &amp; Database">
+      <img src="https://skillicons.dev/icons?i=discord,bots,mysql" width="200" alt="Backend &amp; Database">
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Tools &amp; DevOps</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" width="150" alt="Tools &amp; DevOps">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" width="200" alt="Tools &amp; DevOps">
     </td>
   </tr>
   <tr>
