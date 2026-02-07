@@ -5,7 +5,7 @@
   <tr>
     <td align="center"><strong>Languages</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=python,js,cpp" width="150" alt="Languages">
+      <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" width="150" alt="Languages">
     </td>
   </tr>
   <tr>
