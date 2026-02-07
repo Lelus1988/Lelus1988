@@ -29,10 +29,3 @@
 </table>
 
 </div>
-
-<!-- ────────── GitHub Stats ────────── -->
-
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lelus1988&theme=tokyonight&show_icons=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lelus1988&theme=tokyonight&layout=compact" alt="Top Languages">
-</p>
