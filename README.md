@@ -17,7 +17,7 @@
   <tr>
     <td align="center"><strong>Tools &amp; DevOps</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" width="200" alt="Tools &amp; DevOps">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" width="150" alt="Tools &amp; DevOps">
     </td>
   </tr>
   <tr>
