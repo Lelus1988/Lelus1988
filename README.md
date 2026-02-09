@@ -21,6 +21,7 @@ Ich konzentriere mich auf **Backend-Entwicklung**, liebe sauberen Code und alles
 
 **Backend-Projekte Fortschritt:**
 
+https://platane.github.io/snk/
 
 ---
 
