@@ -21,7 +21,7 @@ Ich konzentriere mich auf **Backend-Entwicklung**, liebe sauberen Code und alles
 
 **OnyxBot Fortschritt:**
 
-![GitHub Snake](https://raw.githubusercontent.com/Lelus1988/OnyxBot/main/dist/github-snake-dark.svg)
+![GitHub Snake](https://github.com/Lelus1988/OnyxBot/blob/main/dist/github-snake-dark.svg)
 
 ---
 
