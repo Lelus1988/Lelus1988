@@ -10,18 +10,18 @@ Ich konzentriere mich auf **Backend-Entwicklung**, liebe sauberen Code und alles
 ![Languages](https://skillicons.dev/icons?i=python,js,ts,cpp)
 
 ### Backend & Database
-![Backend](https://skillicons.dev/icons?i=discord,bots,mysql,postgres,docker)
+![Backend](https://skillicons.dev/icons?i=discord,bots,mysql,postgres)
 
 ### Tools & DevOps
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
 ---
 
 ## ⚡ Aktuell in Arbeit
 
-**Backend-Projekte Fortschritt:**
+**OnyxBot Fortschritt:**
 
-https://platane.github.io/snk/
+![GitHub Snake](https://raw.githubusercontent.com/Lelus1988/OnyxBot/main/dist/github-snake-dark.svg)
 
 ---
 
