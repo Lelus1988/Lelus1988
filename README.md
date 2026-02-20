@@ -18,12 +18,5 @@ Ich konzentriere mich auf **Backend-Entwicklung**, liebe sauberen Code und alles
 
 ---
 
-## ⚡ Aktuell in Arbeit
-
-**OnyxBot Fortschritt:**
-
-![GitHub Snake](https://raw.githubusercontent.com/Lelus1988/OnyxBot/main/dist/github-snake-dark.svg)
-
----
 
 ✨ **Lieblingsbereich:** Backend-Entwicklung, APIs, Datenbanken
