@@ -29,15 +29,15 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_NAME&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lelus1988&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_GITHUB_NAME&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelus1988&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DEIN_GITHUB_NAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=lelus1988&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -57,7 +57,7 @@
 ## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=4000&color=68818F&width=900&lines=Activity" />
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEIN_GITHUB_NAME&theme=github-dark&hide_border=true&bg_color=00000000&color=68818F&line=68818F&point=68818F"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lelus1988&theme=github-dark&hide_border=true&bg_color=00000000&color=68818F&line=68818F&point=68818F"/>
 </p>
 
 ---
@@ -68,6 +68,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=DEIN_GITHUB_NAME&style=for-the-badge&color=68818F"/>
+<img src="https://komarev.com/ghpvc/?username=lelus1988&style=for-the-badge&color=68818F"/>
 
 </div>
