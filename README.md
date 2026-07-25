@@ -29,14 +29,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lelus1988&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelus1988&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=lelus1988&theme=transparent&hide_border=true"/>
 
 </div>
